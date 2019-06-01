@@ -12,4 +12,4 @@ A Simple WinForm C# Program that modify the Oracle Database with given required.
 + Additional Library: Material Skin, DGVPrinter.
 ## Authors
 * **Tran Trung Quan** - *Student at Ho Chi Minh City University of Technology* - [Quan Tran](https://quantrancse.github.io)
-* Group 6 Database Systems CC17KHM Members for the Oracle data.
+* Group 6 Database Systems CC01-CC17KHM Members for the Oracle data.

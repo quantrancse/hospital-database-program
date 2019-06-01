@@ -1,11 +1,11 @@
 # Hospital Database Program
-A Simple WinForm C# Program that modify the Oracle Database with given required
+A Simple WinForm C# Program that modify the Oracle Database with given required.
 
 # ![Screenshot1](https://i.imgur.com/7bvOoev.png)
 
 ## Prerequisites
-+ Oracle Database 11g XE 64bit
-+ SQL Developer (Optional)
++ Oracle Database 11g XE 64bit.
++ SQL Developer (Optional).
 
 ## Note
 + Please read the Hospital_Database_Program_Manual.pdf in the Release for more instructions.

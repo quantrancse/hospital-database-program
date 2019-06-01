@@ -1,0 +1,10 @@
+E:\Workplace\CSharpPrac\LoginPanel\bin\Debug\LoginPanel.exe.config
+E:\Workplace\CSharpPrac\LoginPanel\bin\Debug\LoginPanel.exe
+E:\Workplace\CSharpPrac\LoginPanel\bin\Debug\LoginPanel.pdb
+E:\Workplace\CSharpPrac\LoginPanel\obj\Debug\LoginPanel.csprojAssemblyReference.cache
+E:\Workplace\CSharpPrac\LoginPanel\obj\Debug\LoginPanel.LoginPanel.resources
+E:\Workplace\CSharpPrac\LoginPanel\obj\Debug\LoginPanel.Properties.Resources.resources
+E:\Workplace\CSharpPrac\LoginPanel\obj\Debug\LoginPanel.csproj.GenerateResource.cache
+E:\Workplace\CSharpPrac\LoginPanel\obj\Debug\LoginPanel.csproj.CoreCompileInputs.cache
+E:\Workplace\CSharpPrac\LoginPanel\obj\Debug\LoginPanel.exe
+E:\Workplace\CSharpPrac\LoginPanel\obj\Debug\LoginPanel.pdb

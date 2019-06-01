@@ -1,0 +1,17 @@
+E:\Workplace\CSharpPrac\HospitalDatabase\bin\Release\MaterialSkin.dll
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\HospitalDatabase.csprojAssemblyReference.cache
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\LoginPanel.AddPatient.resources
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\LoginPanel.LoginPanel.resources
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\LoginPanel.Menu.resources
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\LoginPanel.ListPatient.resources
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\LoginPanel.MakeReport.resources
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\LoginPanel.SearchPatient.resources
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\HospitalDatabase.csproj.GenerateResource.cache
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\HospitalDatabase.csproj.CoreCompileInputs.cache
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\HospitalDatabase.csproj.CopyComplete
+E:\Workplace\CSharpPrac\HospitalDatabase\bin\Release\HospitalDatabase.exe.config
+E:\Workplace\CSharpPrac\HospitalDatabase\bin\Release\HospitalDatabase.exe
+E:\Workplace\CSharpPrac\HospitalDatabase\bin\Release\HospitalDatabase.pdb
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\HospitalDatabase.Properties.Resources.resources
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\HospitalDatabase.exe
+E:\Workplace\CSharpPrac\HospitalDatabase\obj\Release\HospitalDatabase.pdb
